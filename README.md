@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bongojuniorrr&label=Profile%20Views&color=44ff00&style=plastic" alt="bongojuniorrr" /> </p>
 
-- 🔭 I’m currently working on **ORZLAB*
+- 🔭 I’m currently working on **ORZLAB**
 
 - 🌱 I’m currently learning **Machine Learning, Move Language, Blockchain Technology**
 
