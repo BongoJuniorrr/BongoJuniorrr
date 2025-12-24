@@ -58,12 +58,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bongojuniorrr&theme=highcontrast&hide_border=true" alt="bongojuniorrr" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bongojuniorrr&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="bongojuniorrr" />
-</div>
