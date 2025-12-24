@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bongojuniorrr&label=Profile%20Views&color=44ff00&style=plastic" alt="bongojuniorrr" /> </p>
 
-- 🔭 I’m currently researching and learning on **VGU AI Laboratory**
+- 🔭 I’m currently **Research Assistant** at **VGU's AI Laboratory**
+- 🔭 I’m currently **AI Research Intern** at **OAI-Labs - VBI Academy**
 
-- 🌱 I’m currently learning **Natural Language Processing & Blockchain**
+- 🌱 I’m currently learning **Natural Language Processing & AI Foundation Models**
 
 - 📫 How to reach me **tranhuuvuphuong218@gmail.com**
 
